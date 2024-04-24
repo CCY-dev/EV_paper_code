@@ -2,8 +2,6 @@ This repository holds the input data and scripts for the metabolites and miRNAs 
 
 | Name   |      Description      |
 |----------|-------------|
-|Database_CKD-EVs_polished_noRed_noBlue.xlsx |The input file containing EV and metabolite data |
-|Database_CKD-EVs_polished_noRed_noBlue_miRNA_total_raw.txt|The input file containing miRNA data|
 |miRNA_total_raw_GroupToGroup_compare_deseq2.R|miRNA analysis using Deseq2|
 |miRNA_PLSDA.R|PLSDA analysis of miRNA data|
 |longdat_code_cross_sectional_raw_miRNA_as_feature_depth_as_confounder.R|LongDat analysis of miRNA data|
