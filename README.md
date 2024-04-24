@@ -1,4 +1,5 @@
-This repository holds the input data and scripts for the metabolites and miRNAs analyses in the paper "Endothelial-derived extracellular vesicles as potential mediators of impaired angiogenesis and cardiovascular disease in pediatric chronic kidney disease"
+This repository holds the input data and scripts for the metabolites and miRNAs analyses in the paper "Endothelial-derived extracellular vesicles as potential mediators of impaired angiogenesis and cardiovascular disease in pediatric chronic kidney disease". The description of each file is as below.
+
 
 1. Database_CKD-EVs_polished_noRed_noBlue.xlsx: The input file containing EV and metabolite data
 2. Database_CKD-EVs_polished_noRed_noBlue_miRNA_total_raw.txt: The input file containing miRNA data
