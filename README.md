@@ -9,4 +9,5 @@ This repository holds scripts for the metabolites and miRNAs analyses in the pap
 |Metabolite_GroupToGroup_compare.R|Between-group analysis applying Wilcoxon-test to the metabolite data|
 |longdat_noRed_noBlue_metabolites.R|Longitudinal analysis applying LongDat to the metabolites data|
 |heatmap_pca_EV|PCA and DESeq2 analyses from bulk RNA sequencing of HAoECs treated with CKD and healthy EVs|
+|feature counts_all|The mapped reads for the RNA seq|
 
